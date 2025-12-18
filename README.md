@@ -1,3 +1,8 @@
+<img width="1328" height="753" alt="image" src="https://github.com/user-attachments/assets/376f5beb-28de-4b64-a641-3385ff1408a1" />
+<img width="1338" height="748" alt="image" src="https://github.com/user-attachments/assets/9e7d103f-060c-4308-b1af-f8c0b4923fef" />
+
+<img width="1337" height="747" alt="image" src="https://github.com/user-attachments/assets/38358bd4-35d7-441f-ad99-bfb08a77b673" />
+
 # Sales-Market-Analysis-
 Sales Market Analysis using Power bi 
 # Gym Data Analysis Project
