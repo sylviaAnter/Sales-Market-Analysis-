@@ -2,6 +2,7 @@
 <img width="1338" height="748" alt="image" src="https://github.com/user-attachments/assets/9e7d103f-060c-4308-b1af-f8c0b4923fef" />
 
 <img width="1337" height="747" alt="image" src="https://github.com/user-attachments/assets/38358bd4-35d7-441f-ad99-bfb08a77b673" />
+<img width="819" height="600" alt="image" src="https://github.com/user-attachments/assets/9f03caf9-5854-41b9-8e29-57b04b3a4194" />
 
 # Sales-Market-Analysis-
 Sales Market Analysis using Power bi 
